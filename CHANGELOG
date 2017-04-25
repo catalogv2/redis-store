@@ -1,3 +1,8 @@
+*1.0.0.2 (April 26, 2017)*
+
+  * Bump version v1.0.0.2
+  * Relax redis dependency to '>= 2.2'
+
 *1.0.0.1 (September 6, 2011)*
 
   * Bump version v1.0.0.1
